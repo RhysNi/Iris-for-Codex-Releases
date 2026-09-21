@@ -3,6 +3,15 @@
     <channel>
         <title>Iris for Codex</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Mon, 21 Sep 2026 23:50:41 +0800</pubDate>
+            <sparkle:version>2455.15.46</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://rhysni.github.io/Iris-for-Codex-Releases/Iris-for-Codex-0.1.5-Universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/RhysNi/Iris-for-Codex-Releases/releases/download/v0.1.5/Iris-for-Codex-0.1.5-Universal.dmg" length="10223186" type="application/octet-stream" sparkle:edSignature="wOkEFayOu6l+6aMZ803D/4sjCXJX51hpbpH4c3L8zM1N7Y2tQ7R4BatxJhrU8Oah9pzWm+EJxXuJ6WOsCYubAA=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Mon, 21 Sep 2026 23:16:46 +0800</pubDate>
             <sparkle:version>2455.15.11</sparkle:version>
