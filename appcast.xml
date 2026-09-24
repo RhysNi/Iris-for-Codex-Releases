@@ -3,6 +3,15 @@
     <channel>
         <title>Iris for Codex</title>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Thu, 24 Sep 2026 10:35:19 +0800</pubDate>
+            <sparkle:version>2458.2.31</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://rhysni.github.io/Iris-for-Codex-Releases/Iris-for-Codex-0.1.8-Universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/RhysNi/Iris-for-Codex-Releases/releases/download/v0.1.8/Iris-for-Codex-0.1.8-Universal.dmg" length="10361594" type="application/octet-stream" sparkle:edSignature="46nCdW5txtlDlnNWXqbxWxzF5uWvJyCV5RF7557bc3/tNa1rCOY4CjuQMKF27YYs84CewvaBBp1EJy5/D2E5Cg=="/>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Wed, 23 Sep 2026 13:47:06 +0800</pubDate>
             <sparkle:version>2457.5.42</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://rhysni.github.io/Iris-for-Codex-Releases/Iris-for-Codex-0.1.6-Universal.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/RhysNi/Iris-for-Codex-Releases/releases/download/v0.1.6/Iris-for-Codex-0.1.6-Universal.dmg" length="10223105" type="application/octet-stream" sparkle:edSignature="XOSCPbv3nTb/D2//IAWigwr1TATiMMmkoMf4VmLIn2DliX/PFNhp2Dpr8O7FEgg5L+U4RwlV8JAH7LyZfZ0nBw=="/>
-        </item>
-        <item>
-            <title>0.1.5</title>
-            <pubDate>Mon, 21 Sep 2026 23:50:41 +0800</pubDate>
-            <sparkle:version>2455.15.46</sparkle:version>
-            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://rhysni.github.io/Iris-for-Codex-Releases/Iris-for-Codex-0.1.5-Universal.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/RhysNi/Iris-for-Codex-Releases/releases/download/v0.1.5/Iris-for-Codex-0.1.5-Universal.dmg" length="10223186" type="application/octet-stream" sparkle:edSignature="wOkEFayOu6l+6aMZ803D/4sjCXJX51hpbpH4c3L8zM1N7Y2tQ7R4BatxJhrU8Oah9pzWm+EJxXuJ6WOsCYubAA=="/>
         </item>
     </channel>
 </rss>
